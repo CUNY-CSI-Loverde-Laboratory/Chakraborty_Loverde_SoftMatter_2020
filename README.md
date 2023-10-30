@@ -7,6 +7,6 @@ This repository contains example LAMMPS input to run simulations as discussed in
 
 
   
-- [in.new] – LAMMPS script to equilibrate a PEO-PS membrane
-- example starting polymersome configuration
+- [POLYMERSOME/in.new] – LAMMPS script to equilibrate a PEO-PS membrane
+- [POLYMERSOME/input.lammps] example starting polymersome configuration
 
