@@ -4,10 +4,9 @@ This repository contains example LAMMPS input to run simulations as discussed in
 
 - [in.new]– LAMMPS script to equilibrate an example PEO-PS membrane
 - [input.lammps] - example membrane configuration
-- psf
-- pdb
+
+
   
 - [in.new](https://github.com/hall-polymers/published-work/blob/master/2015-seo2015effect/in.diblock) – LAMMPS script to equilibrate a PEO-PS membrane
 - example starting polymersome configuration
-- psf
-- pdb
+
